@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!-- thong tin sinh vien -->
+
+<DanhSachSinhVien>
+
+    <SinhVien>
+
+        <Ten>Đặng Ngọc Thạch</Ten>
+
+        <MSSV>1812843</MSSV>
+
+    </SinhVien>
+    <SinhVien>
+
+        <Ten>Vũ Đình Phúc</Ten>
+
+        <MSSV>1812824</MSSV>
+
+    </SinhVien>
+    <SinhVien>
+
+        <Ten>Nguyễn Hồng Phượng</Ten>
+
+        <MSSV>1812829</MSSV>
+
+    </SinhVien>
+    <SinhVien>
+
+        <Ten>Đỗ Trường Sơn</Ten>
+
+        <MSSV>1812836</MSSV>
+
+    </SinhVien>
+    <SinhVien>
+
+        <Ten>Hoàng Vinh Quang</Ten>
+
+        <MSSV>1812831</MSSV>
+
+    </SinhVien>
+
+        
+
+</DanhSachSinhVien>
